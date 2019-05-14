@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author acer
+ * Tuesday section
  */
 public class Students {
         int id;
